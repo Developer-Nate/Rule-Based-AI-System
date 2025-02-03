@@ -126,11 +126,16 @@ Examples:
       Premise: "In a post-apocalyptic wasteland, a scavenger with a rare crafting skill must survive a war between factions by crafting essential survival gear."
 
 Part 4: Reflection: 
+ 
   •	Project Overview: This project involved designing a practical, rule-based systems to create prompt for novels in the Lit-RPG genre of books. The system uses user based input conditions (E.g. setting and      game mechanics) to create a writing prompt for a literary entry.
+  
   •	Challenges:
+     
       o	Grammatical errors in prompt generations: Do the prompt make sense in the fill in the blank format and can we implement randomization?
       o	Uniqueness: how do we prevent consistent repeating prompts? 
+ 
   •	Comparison to machine learning:
+      
       o	Adaptability: 
         	Machine learning models are adaptive and can change language models to suit inputs (i.e. are more adaptive.) 
       o	Advantages: 
